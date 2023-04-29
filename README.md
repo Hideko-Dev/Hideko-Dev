@@ -10,4 +10,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Hideko-Dev&show_icons=true&theme=dracula&bg_color=30,6f00ff,22234d&title_color=fff&text_color=fff&hide_border=true">
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/pin?username=MakaronChan&repo=MLauncher&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,6f00ff,22234d&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/pin?username=MakaronChan&repo=MLauncher&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,6f00ff,22234d&hide_border=true&card_width=500px" />
