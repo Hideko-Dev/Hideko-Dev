@@ -1,9 +1,6 @@
 <p align="center">
- <img width="100px" src="https://media.discordapp.net/attachments/969461028138147891/1002027520486551654/o1yAt9JwZiT4G6c1658972329_1658972336.png?width=413&height=413" align="center" alt="GitHub Readme Stats" />
+ <img src="https://media.discordapp.net/attachments/969461028138147891/1101841255287238766/Rounded_20230429_210321.png?width=1439&height=479" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">MakaronChan</h2>
-
-  ![GitHub Snake Light](https://github.com/IMarkoMC/iMarkoMC/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![GitHub Snake dark](https://github.com/IMarkoMC/iMarkoMC/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
  <p align="center">I'm from Japan. Japan Minecraft Developer. client and server.</p>
 </p>
