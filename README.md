@@ -1,9 +1,5 @@
 <p align="center">
  <img src="https://media.discordapp.net/attachments/969461028138147891/1101841255287238766/Rounded_20230429_210321.png?width=1439&height=479" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">MakaronChan</h2>
-
- <p align="center">I'm from Japan. Japan Minecraft Developer. client and server.</p>
-</p>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
