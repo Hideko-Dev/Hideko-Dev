@@ -6,5 +6,5 @@
 <p align="center">
  <img src="https://media.discordapp.net/attachments/969461028138147891/1101847631468179466/Rounded_20230429_212837.png?width=1439&height=197" align="center" alt="GitHub Readme Stats1" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hideko-Dev&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hideko-Dev&theme=dark&text_color=fff&bg_color=30,e96443,904e95&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hideko-Dev&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true)
