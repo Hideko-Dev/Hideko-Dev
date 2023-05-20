@@ -11,3 +11,5 @@
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/pin?username=Hideko-Dev&repo=TempCleaner&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,6f00ff,22234d&hide_border=true" width="470">
+ <img src="https://github-readme-stats.vercel.app/api/pin?username=Hideko-Dev&repo=Modshifter&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,6f00ff,22234d&hide_border=true" width="470">
+ <img src="https://github-readme-stats.vercel.app/api/pin?username=Hideko-Dev&repo=Meteor&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,6f00ff,22234d&hide_border=true" width="470">
