@@ -1,4 +1,4 @@
-```diff_php
+```diff_c
 <?php
 
 namespace AshBaker;
