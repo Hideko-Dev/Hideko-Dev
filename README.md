@@ -1,31 +1,19 @@
 ```php
 <?php
 
-namespace AshBaker;
+namespace Hideko;
 
-class About extends Me
+class ReadMe extends Hideko
 {
-    public function getCurrentWorkplace()
-    {
-        return [
-            'workplace' => [
-                'company' => 'MEA Mobile',
-                'position' => 'Full Stack Developer'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge()
+    public function getLanguageSkills()
     {
         return [
             Php::class,
             Javascript::class,
-            Laravel::class,
             Vuejs::class,
             Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
+            AWS::class,
+            GCP::class,
         ];
     }
 
