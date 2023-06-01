@@ -1,3 +1,41 @@
+```
+<?php
+
+namespace AshBaker;
+
+class About extends Me
+{
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'MEA Mobile',
+                'position' => 'Full Stack Developer'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge()
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
+
 <p align="center">
  <img src="https://media.discordapp.net/attachments/969461028138147891/1102574793104031774/Rounded_20230501_213811.png?width=1439&height=479" />
  
