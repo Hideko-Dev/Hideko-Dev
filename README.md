@@ -12,8 +12,8 @@ class ReadMe extends Hideko
             Javascript::class,
             Vuejs::class,
             Angular::class,
-            AWS::class,
-            GCP::class,
+            Aws::class,
+            Gcp::class,
         ];
     }
 
