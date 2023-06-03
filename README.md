@@ -8,12 +8,13 @@ class ReadMe extends Hideko
     public function getLanguageSkills()
     {
         return [
-            Php::class,
-            Javascript::class,
-            Vuejs::class,
-            Angular::class,
-            Aws::class,
-            Gcp::class,
+            csharp::class
+            javascript::class,
+            npm::class,
+            yarn::class,
+            vuejs::class,
+            aws::class,
+            gcp::class,
         ];
     }
 
