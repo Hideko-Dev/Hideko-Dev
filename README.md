@@ -8,7 +8,7 @@ class ReadMe extends Hideko
     public function getLanguageSkills()
     {
         return [
-            C#::class
+            Csharp::class
             JavaScript::class,
             Npm::class,
             Yarn::class,
