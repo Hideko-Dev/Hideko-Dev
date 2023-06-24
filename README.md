@@ -1,6 +1,8 @@
 ```php
 <?php
 
+use Github/Profile;
+
 namespace Hideko;
 
 class ReadMe extends Hideko
