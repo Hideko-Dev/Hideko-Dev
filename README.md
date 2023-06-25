@@ -1,48 +1,30 @@
-```php
-<?php
+```kotlin
+package dev.hideko.profile
 
-use Github/Profile;
+import dev.hideko.messages
+import dev.hideko.skills
+import com.github.profile
 
-namespace Hideko;
-
-class ReadMe extends Hideko
-{
-    public function getLanguageSkills()
-    {
-        return [
-            Csharp::class
-            JavaScript::class,
-            Npm::class,
-            Yarn::class,
-            VueJs::class,
-            AWS::class,
-            GCP::class,
-        ];
+class Hideko : Profile() {
+    override fun myProfile() {
+        var message = {
+        " Hello! I'm Hideko, Student. ",
+        " I am always playing with my friends and doing many other things. ",
+        " My hobby is playing. I often work on development. "
+        }
     }
 
-    public function getFutureGoal()
-    {
-        return 'To contribute to open source.';
+    override fun mySkill() {
+        var skills = {
+        " HTML, CSS ",
+        " JavaScript ",
+        " Java ",
+        " Kotlin ",
+        " PHP ",
+        " CSharp ",
+        " Skript (Skript) "
+        }
     }
 }
+
 ```
-
-<p align="center">
- <img src="https://media.discordapp.net/attachments/969461028138147891/1102574793104031774/Rounded_20230501_213811.png?width=1439&height=479" />
- 
-#
- 
-<p align="center">
- <img src="https://media.discordapp.net/attachments/969461028138147891/1101847631468179466/Rounded_20230429_212837.png?width=1439&height=197" align="center" alt="GitHub Readme Stats1" />
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hideko-Dev&show_icons=true&theme=dracula&bg_color=30,6f00ff,22234d&title_color=fff&text_color=fff&hide_border=true">
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/pin?username=Hideko-Dev&repo=TempCleaner&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,6f00ff,22234d&hide_border=true" width="470">
-
- <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/pin?username=Hideko-Dev&repo=Modshifter&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,6f00ff,22234d&hide_border=true" width="470">
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=Hideko-Dev&repo=Meteor&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=30,6f00ff,22234d&hide_border=true" width="470">
