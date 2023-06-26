@@ -6,6 +6,8 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hideko-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 ` IntelliJ IDEA Ultimate Edition | Viewing C:\Profile.kt `
 ```kotlin
 package dev.hideko.profile
