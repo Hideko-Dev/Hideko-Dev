@@ -7,11 +7,11 @@
 ______________________________________________________________________________________________________
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hideko-Dev&show_icons=true&theme=dracula&hide_border=true&card_width=1000px">
-
+<br>
 ______________________________________________________________________________________________________
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hideko-Dev&theme=dracula&hide_border=true&card_width=1000px">
-
+<br>
 ______________________________________________________________________________________________________
 
 ` IntelliJ IDEA Ultimate Edition | Viewing C:\Profile.kt `
