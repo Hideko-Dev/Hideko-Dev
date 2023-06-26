@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hideko-Dev&theme=dracula&hide_border=true">
 
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hideko-Dev&show_icons=true&theme=dracula&hide_border=true">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hideko-Dev&show_icons=true&theme=dracula&hide_border=true&card_width="400">
 
 ` IntelliJ IDEA Ultimate Edition | Viewing C:\Profile.kt `
 ```kotlin
