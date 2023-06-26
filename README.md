@@ -1,7 +1,9 @@
 <p align="left">
  <img src="https://media.discordapp.net/attachments/1103327372025012255/1122804703709900921/1687767138502.png?width=1349&height=449" width="470">
-<p align="right">
  <img src="https://media.discordapp.net/attachments/1103327372025012255/1122804703483416647/1687767471706.png?width=1349&height=449" width="470">
+ <img src="https://media.discordapp.net/attachments/1103327372025012255/1122804702879428699/1687767767532.png?width=1349&height=449" width="470">
+ <img src="https://media.discordapp.net/attachments/1103327372025012255/1122804703214964776/1687767606341.png?width=1349&height=449" width="470">
+ 
 
 ` C:\Profile.kt `
 ```kotlin
