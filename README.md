@@ -15,14 +15,22 @@ class Hideko : Profile() {
     }
 
     override fun mySkill() {
-        var skills = {
-        " HTML, CSS ",
-        " JavaScript ",
-        " Java ",
-        " Kotlin ",
-        " PHP ",
-        " CSharp ",
-        " Skript (Skript) "
+        var html = "perfect"
+        var css = "little"
+        var python = "little"
+        var ruby = "little"
+        var csharp = "middle"
+        var skript = "perfect"
+        var kotlin = "perfect"
+        var java = "perfect"
+        var perfect = {
+        "HTML", "Skript", "Kotlin", "Java" 
+        }
+        var middle {
+        "python", "csharp"
+        }
+        var little {
+        "CSS", "Python", "Ruby"
         }
     }
 }
