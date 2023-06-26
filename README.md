@@ -6,7 +6,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hideko-Dev&show_icons=true&theme=dracula&hide_border=true&card_width=1000px">
 
-## Alinx
+##  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hideko-Dev&theme=dracula&hide_border=true&card_width=1000px">
 
