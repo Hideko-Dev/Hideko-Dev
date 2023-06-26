@@ -5,7 +5,7 @@
  <img src="https://media.discordapp.net/attachments/1103327372025012255/1122804703214964776/1687767606341.png?width=1349&height=449" width="410">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hideko-Dev&show_icons=true">
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hideko-Dev))
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hideko-Dev">
 
 ` IntelliJ IDEA Ultimate Edition | Viewing C:\Profile.kt `
 ```kotlin
