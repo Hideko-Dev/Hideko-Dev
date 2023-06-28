@@ -38,8 +38,8 @@ class Hideko : Profile() {
     		" Ruby " + "35%",
     		" CSharp " + "75%",
     		" Kotlin " + "90%",
-			" Java " + "85%",
-			" Skript " + "100%"
+		" Java " + "85%",
+		" Skript " + "100%"
 		)
     } 
 }
